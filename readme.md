@@ -65,5 +65,5 @@ This project is **MIT Licensed** 📄.
 
 ---
 
-💙 Made with love by **[Your Name]** 👨‍💻🚀
+💙 Made with love by **Yash Aman Srivastava** 👨‍💻🚀
 
